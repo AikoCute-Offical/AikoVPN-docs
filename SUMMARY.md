@@ -26,5 +26,5 @@
 
 ## Lưu Ý <a href="#Notes" id="Notes"></a>
 
-* [Lưu ý cơ bản](Notes/luu-y-co-ban.md)
-* [Thông tin liên hệ](Notes/thong-tin-lien-he.md)
+* [😊 Lưu ý cơ bản](Notes/luu-y-co-ban.md)
+* [😊 Thông tin liên hệ](Notes/thong-tin-lien-he.md)
