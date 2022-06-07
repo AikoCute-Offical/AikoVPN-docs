@@ -1,8 +1,20 @@
 # Table of contents
 
-*[AikoVPN](README.md)
+* [AikoCute - VPN](README.md)
 
-## Điều khoản và dịch vụ
+## Mở đầu <a href="#getstarted" id="getstarted"></a>
 
-* [Điều Khoản Web AikoVPN](dieukhoan-dichvu/dieukhoan.md)
-* [Dịch vụ Web AikoVPN](dieukhoan-dichvu/dichvu.md)
+* [VPN là gì ?](getstarted/vpn-la-gi.md)
+* [AikoVPN hỗ trợ gì ?](getstarted/aikovpn-ho-tro-gi.md)
+
+## Dịch vụ <a href="#service" id="service"></a>
+
+* [📮 Chính sách bảo hành](service/chinh-sach-bao-hanh.md)
+* [🌾 Hướng dẫn mua hàng](service/huong-dan-mua-hang.md)
+* [📥 Dịch vụ VPN](service/dich-vu-vpn.md)
+
+## Hướng dẫn sử dụng <a href="#help" id="help"></a>
+
+* [IOS](help/ios.md)
+* [Page 2](help/page-2.md)
+* [Page 1](help/page-1.md)
