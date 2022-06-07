@@ -15,10 +15,15 @@
 
 ## Hướng dẫn sử dụng <a href="#help" id="help"></a>
 
-* [IOS](help/ios/README.md)
-  * [Shadow Rocket](help/ios/shadow-rocket.md)
-  * [Quantumult X](help/ios/quantumult-x.md)
-* [Android](help/android/README.md)
-  * [Clash For Android](help/android/clash-for-android.md)
-  * [Surfboard](help/android/surfboard.md)
-  * [AikoVPN](help/android/aikovpn.md)
+* [📱 IOS](help/ios/README.md)
+  * [☘ Shadow Rocket](help/ios/shadow-rocket.md)
+  * [❌ Quantumult X](help/ios/quantumult-x.md)
+* [📱 Android](help/android/README.md)
+  * [😊 Clash For Android](help/android/clash-for-android.md)
+  * [🧜 Surfboard](help/android/surfboard.md)
+  * [🖥 AikoVPN](help/android/aikovpn.md)
+
+## Lưu Ý <a href="#Notes" id="Notes"></a>
+
+* [Lưu ý cơ bản](Notes/luu-y-co-ban.md)
+* [Thông tin liên hệ](Notes/thong-tin-lien-he.md)
