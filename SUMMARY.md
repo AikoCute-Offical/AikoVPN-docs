@@ -15,5 +15,10 @@
 
 ## Hướng dẫn sử dụng <a href="#help" id="help"></a>
 
-* [IOS](help/ios.md)
-* [Android](help/android.md)
+* [IOS](help/ios/README.md)
+  * [Shadow Rocket](help/ios/shadow-rocket.md)
+  * [Quantumult X](help/ios/quantumult-x.md)
+* [Android](help/android/README.md)
+  * [Clash For Android](help/android/clash-for-android.md)
+  * [Surfboard](help/android/surfboard.md)
+  * [AikoVPN](help/android/aikovpn.md)
