@@ -11,6 +11,7 @@
 
 * [📮 Chính sách bảo hành](service/chinh-sach-bao-hanh.md)
 * [🌾 Hướng dẫn mua hàng](service/huong-dan-mua-hang.md)
+* [🥥 Không Hỗ trợ hoàn phí](service/khong-ho-tro-hoan-phi.md)
 * [📥 Dịch vụ VPN](service/dich-vu-vpn.md)
 
 ## Hướng dẫn sử dụng <a href="#help" id="help"></a>
