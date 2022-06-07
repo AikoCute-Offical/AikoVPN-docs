@@ -16,5 +16,4 @@
 ## Hướng dẫn sử dụng <a href="#help" id="help"></a>
 
 * [IOS](help/ios.md)
-* [Page 2](help/page-2.md)
-* [Page 1](help/page-1.md)
+* [Android](help/android.md)
