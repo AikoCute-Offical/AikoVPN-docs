@@ -39,6 +39,9 @@
     * [😇 Clash For Windows](help/su-dung-cho-pc-laptop/su-dung-cho-windows/clash-for-windows.md)
     * [😂 Netch](help/su-dung-cho-pc-laptop/su-dung-cho-windows/netch.md)
     * [😆 V2rayN](help/su-dung-cho-pc-laptop/su-dung-cho-windows/v2rayn.md)
+  * [🍅 Sử dụng cho MacOS](help/su-dung-cho-pc-laptop/su-dung-cho-macos/README.md)
+    * [☺ Clash For Windows](help/su-dung-cho-pc-laptop/su-dung-cho-macos/clash-for-windows.md)
+    * [😅 Clash X](help/su-dung-cho-pc-laptop/su-dung-cho-macos/clash-x.md)
 
 ## Lưu Ý <a href="#notes" id="notes"></a>
 

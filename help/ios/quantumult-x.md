@@ -2,6 +2,5 @@
 description: Coming Soon
 ---
 
-# ❌ Quantumult X
+# Quantumult X
 
-Sẽ được Update sau&#x20;
