@@ -36,6 +36,7 @@
     * [🖥 AikoVPN](help/android/aikovpn.md)
 * [💻 Sử dụng cho PC - Laptop](help/su-dung-cho-pc-laptop/README.md)
   * [😇 Sử dụng cho Windows](help/su-dung-cho-pc-laptop/su-dung-cho-windows/README.md)
+    * [🎮 Show Game Windows](help/su-dung-cho-pc-laptop/su-dung-cho-windows/show-game-windows.md)
     * [😇 Clash For Windows](help/su-dung-cho-pc-laptop/su-dung-cho-windows/clash-for-windows.md)
     * [😂 Netch](help/su-dung-cho-pc-laptop/su-dung-cho-windows/netch.md)
     * [😆 V2rayN](help/su-dung-cho-pc-laptop/su-dung-cho-windows/v2rayn.md)
